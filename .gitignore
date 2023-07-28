@@ -1,0 +1,6 @@
+# IDE system files
+.idea
+.vscode
+
+# Mac file
+.DS_Store
